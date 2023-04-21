@@ -1,5 +1,8 @@
 # Shoe-store-ui
 #ecommerce app
+##Ecommerce
+# preview
+
 
 <img src="https://user-images.githubusercontent.com/68494371/219746942-68fc0f5b-25a5-491a-92d2-ac95536a7da2.png" alt="alt home" style="width:30%;height:80;margin-right: 25px"> | 
 <img src="https://user-images.githubusercontent.com/68494371/219747163-908a0fec-7ec0-4e3d-8187-c602234ecc2e.png" alt="alt home" style="width:30%;height:80">
